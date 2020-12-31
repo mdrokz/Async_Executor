@@ -46,7 +46,7 @@ let (executor, spawner): (Executor<'_, String>, Spawner<'_, String>) =
   // for running an async loop
 
   // executor.run(Box::new(|v| {
-        println!("V {}", v);
-    }));
+  //      println!("V {}", v);
+  //  }));
 
 ```
